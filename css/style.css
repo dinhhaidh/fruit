@@ -129,7 +129,7 @@ body.dark-theme{
 	Color changes in some parts of 
 	the website, in dark theme
 ==========*/
-.dark-theme :is(.shadow-header, .nav__menu, .scrollup) {
+.dark-theme :is(.shadow-header, .scrollup) {
     box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 16px;
 }
 
